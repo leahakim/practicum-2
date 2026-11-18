@@ -1,0 +1,9 @@
+
+AI PROMPTS: 
+
+1. I got this error message: Error: You have supplied an invalid or inactive API key. To obtain a valid API key, visit https://api.census.gov/data/key_signup.html. To activate your key, be sure to click the link provided to you in the email from the Census Bureau that contained your key.
+
+2. I got my new api key in the email, but my code is still not working. Is there another way to format it? or check? 
+
+3. I got a 0 when I tried checking my key, what to do? 
+
